@@ -1,24 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A light weight Twitter clone, based on Andy Leverenz's fantastic web tutorial series, Building a Twitter Clone. 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Check it out [here](https://www.youtube.com/watch?time_continue=1&v=5gUysPm64a4&feature=emb_logo).
