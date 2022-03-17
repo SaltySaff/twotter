@@ -63,6 +63,8 @@ Rails.application.configure do
 
   # Raises error for missing translations.
   # config.i18n.raise_on_missing_translations = true
+
+  # Devise default URL
   config.action_mailer.default_url_options = { host: 'localhost', port: 3000 }
 
   # Annotate rendered view with file names.
