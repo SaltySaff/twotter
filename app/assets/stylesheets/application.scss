@@ -28,6 +28,6 @@
   }
 }
 
-notifications:not(:lost-child) {
+.notification:not(:last-child) {
   margin-bottom: 0;
 }
